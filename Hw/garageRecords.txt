@@ -1,0 +1,2 @@
+ID #         minutes    charge
+Total:                   90.60

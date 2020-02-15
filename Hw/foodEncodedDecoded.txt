@@ -1,0 +1,2 @@
+foodEncodedDecoded.txt
+COWS MAKE MILK TREES GIVE FRUIT 

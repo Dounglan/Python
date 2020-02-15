@@ -1,0 +1,25 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 22:20:52) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> #Doung Lan Cheung
+>>> 
+========== RESTART: C:\Users\Dounglan\Documents\ECS102\Dreaming.py ==========
+Where would you like to visit? Costa Rica
+What would you like to drink? coconut water
+Welcome to SU!
+While you are here you can dream about drinking coconut water in Costa Rica!
+>>> main()
+Where would you like to visit? Canada
+What would you like to drink? milkshake
+Welcome to SU!
+While you are here you can dream about drinking milkshake in Canada!
+>>> main()
+Where would you like to visit? Germany
+What would you like to drink? tea
+Welcome to SU!
+While you are here you can dream about drinking tea in Germany!
+>>> main()
+Where would you like to visit? Japan
+What would you like to drink? Bubble Tea
+Welcome to SU!
+While you are here you can dream about drinking Bubble Tea in Japan!
+>>> 

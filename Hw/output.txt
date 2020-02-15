@@ -1,0 +1,145 @@
+Doung Lan Cheung
+#Assignment2.1
+1st output
+Discount Heaven where the prices will make you smile!
+For each item, enter the number, then press enter.
+Enter the number of tires: 3
+Enter the number of soup bowls: 21
+Enter the number of hats: 5
+Enter the number of skate boards: 3
+Enter the number of pillows: 8
+Tires:  3
+Soup bowls:  21
+Hats:  5
+Skate boards:  3
+Pillows:  8
+Your bill
+******************
+Tires         $ 419.97    3
+Soup bowls    $ 35.64    21
+Hats          $ 28.0      5
+Skate boards  $ 120.0     3
+Pillows       $ 160.0     8
+-------------------------------------------
+Total         $ 763.61     40 items
+Come Again!
+2nd output
+Discount Heaven where the prices will make you smile!
+For each item, enter the number, then press enter.
+Enter the number of tires: 1
+Enter the number of soup bowls: 1
+Enter the number of hats: 1
+Enter the number of skate boards: 1
+Enter the number of pillows: 1
+Tires:  1
+Soup bowls:  1
+Hats:  1
+Skate boards:  1
+Pillows:  1
+Your bill
+******************
+Tires         $ 139.99    1
+Soup bowls    $ 1.88    1
+Hats          $ 7.0      1
+Skate boards  $ 49.99     1
+Pillows       $ 21.0     1
+-------------------------------------------
+Total         $ 219.86     5 items
+Come Again!
+#3rd output
+Discount Heaven where the prices will make you smile!
+For each item, enter the number, then press enter.
+Enter the number of tires: 4
+Enter the number of soup bowls: 6
+Enter the number of hats: 2
+Enter the number of skate boards: 3
+Enter the number of pillows: 4
+Tires:  4
+Soup bowls:  6
+Hats:  2
+Skate boards:  3
+Pillows:  4
+Your bill
+******************
+Tires         $ 420.0    4
+Soup bowls    $ 10.0    6
+Hats          $ 10.5      2
+Skate boards  $ 120.0     3
+Pillows       $ 80.0     4
+-------------------------------------------
+Total         $ 640.5     19 items
+Come Again!
+#Assignment 2.2
+1st output
+Enter how many pairs of points: 2
+Enter x and y cooridinates separated by a comma5,4
+Enter x and y cooridinates separated by a comma5,6
+How many pair of points? 2
+start point -  5 , 4
+end point -  5 , 6
+Distance:  2.0
+Enter x and y cooridinates separated by a comma3,0
+Enter x and y cooridinates separated by a comma0,4
+How many pair of points? 2
+start point -  3 , 0
+end point -  0 , 4
+Distance:  5.0
+2nd output
+Enter how many pairs of points: 1
+Enter x and y cooridinates separated by a comma0,0
+Enter x and y cooridinates separated by a comma3,4
+How many pair of points? 1
+start point -  0 , 0
+end point -  3 , 4
+Distance:  5.0
+3rd output
+Enter how many pairs of points: 3
+Enter x and y cooridinates separated by a comma0,0
+Enter x and y cooridinates separated by a comma12,5
+How many pair of points? 3
+start point -  0 , 0
+end point -  12 , 5
+Distance:  13.0
+Enter x and y cooridinates separated by a comma6,4
+Enter x and y cooridinates separated by a comma9,8
+How many pair of points? 3
+start point -  6 , 4
+end point -  9 , 8
+Distance:  5.0
+Enter x and y cooridinates separated by a comma10,6
+Enter x and y cooridinates separated by a comma16,14
+How many pair of points? 3
+start point -  10 , 6
+end point -  16 , 14
+Distance:  10.0
+#Assignment2.3
+1st output
+Enter a value: 1
+x     1000+ax    x^a      a^x
+0      1000         0       	 1
+5      1005         5          1
+10     1010       10         1
+15     1015       15         1
+20     1020       20         1
+25     1025       25         1
+30     1030       30         1
+2nd output
+Enter a value: 2
+x     1000+ax    x^a      a^x
+0       1000       0           1
+5       1010       25        32
+10     1020       100      1024
+15     1030       225      32768
+20     1040       400      1048576
+25     1050       625      33554432
+30     1060       900      1073741824
+3rd output
+Enter a value: 3
+x     1000+ax    x^a      a^x
+0       1000       0            1
+5       1015       125        243
+10     1030       1000       59049
+15     1045       3375       14348907
+20     1060       8000       3486784401
+25     1075       15625     847288609443
+30     1090       27000     205891132094649

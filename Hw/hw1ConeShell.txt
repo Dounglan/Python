@@ -1,0 +1,26 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 22:20:52) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> #Doung Lan Cheung
+>>> 
+============ RESTART: C:\Users\Dounglan\Documents\ECS102\Cone.py ============
+Enter the height of the cone: 10
+Enter the radius of the cone :1
+Radius:  1
+Height:  10
+The volume is  10.471975511965976 cubic units
+The surface area is  34.71420807439434 square units
+>>> main()
+Enter the height of the cone: 20
+Enter the radius of the cone :1
+Radius:  1
+Height:  20
+The volume is  20.94395102393195 cubic units
+The surface area is  66.05193651560371 square units
+>>> main()
+Enter the height of the cone: 30
+Enter the radius of the cone :2
+Radius:  2
+Height:  30
+The volume is  125.66370614359171 cubic units
+The surface area is  201.48034446049667 square units
+>>> 
