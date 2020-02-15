@@ -1,0 +1,9 @@
+Name
+Thin Mints     Samoas       Shortbreads
+
+Susie Fong
+10             3            5
+Megan LaPlant
+30             20           55
+Shoban Freeman
+45             15            0

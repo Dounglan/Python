@@ -1,0 +1,6 @@
+apple
+ 6.0
+pineapple
+ 10.0
+eggtarts are tacos
+ 6.333333333333333

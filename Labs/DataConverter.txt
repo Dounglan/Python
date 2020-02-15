@@ -1,0 +1,28 @@
+#Doung Lan Cheung
+#DataConverter.py
+def main():
+#Ask for the date    
+    months="JanFebMarAprMayJunJulAugSepOctNovDec"
+    k = input("What is the date in mm/dd/yy?")
+#Grab first two characters from the date string, change them into int and use that number for month    
+    month = k[0:2]
+    mon = int(month)
+    pos = 3*(mon-1)
+    monthAbbrev=months[pos:pos+3]
+#Grab the 2 characters for the day, turn them in to int and use it as the day
+    days = k[3:5]
+    day = int(days)
+    years = k[6:8]
+    yr = "20" + years
+    year = int(yr)
+#print the date in abbreviated month, day, yyyy    
+    print(monthAbbrev+".",day,",",year)
+main()
+#What is the date in mm/dd/yy?02/06/19
+#Feb. 6 , 2019
+#What is the date in mm/dd/yy?03/08/18
+#Mar. 8 , 2018
+#What is the date in mm/dd/yy?03/25/18
+#Mar. 25 , 2018
+#What is the date in mm/dd/yy?12/25/01
+#Dec. 25 , 2001

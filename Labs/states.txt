@@ -1,0 +1,13 @@
+California	39,776,830
+New York	19,862,512
+Michigan	9,991,177
+Alaska	738,068
+Colorado	5,684,203
+Hawaii	1,426,393
+Arkansas	3,020,327
+Maryland	6,079,602
+Georgia	10,545,138
+Illinois	12,768,320
+Oregon	4,199,563
+Florida	21,312,211
+delaware	971,180
