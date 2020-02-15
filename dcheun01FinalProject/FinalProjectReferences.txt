@@ -1,0 +1,9 @@
+Dounglan Cheung
+ECS 102
+References:
+
+I came up with Blackjack based on my experiences. 
+Fileformat.info helped me figure out the unicode for the card suits.
+My Card class is based on lab 18’s bouncy ball class.
+Jason Zhang showed me that del helps me remove the card from the deck.
+Dana Chea played my game to see if there were bugs. She suggested to make the initial play as a separate function for the game play.
