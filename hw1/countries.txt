@@ -1,0 +1,10 @@
+United States	331,002,9651
+United Kingdom	67,886,011
+France	65,273,511
+Germany	83,783,942
+India	1,380,004,385
+China	1,439,323,776
+Japan	126,476,461
+Russia	145,934,462
+Finland	5,540,720
+Italy	60,461,826
